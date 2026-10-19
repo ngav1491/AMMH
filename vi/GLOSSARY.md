@@ -105,3 +105,5 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `贷款总额` / `月贷款总额` = tổng khoản giải ngân. Không dịch thành dư nợ.
 - `禁封账号` = khóa tài khoản. Không viết “cấm khóa”.
 - `前端` = frontend. `后端` = backend. Không dịch thành phía trước / phía sau.
+- `代理服务器` / `代理IP` = máy chủ proxy / IP proxy. Không dịch thành đại lý. `广告代理` = đại lý quảng cáo, là việc khác.
+- `朋友注册成功后` = sau khi người bạn đăng ký thành công. Không viết “Bạn đăng ký” khi chủ ngữ là người bạn.
