@@ -102,3 +102,6 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `每日零库存` = tồn kho về 0 mỗi ngày. Không viết không mỗi ngày.
 - `Lo-Fi` = độ trung thực thấp. Không dịch thành độ trung thấp.
 - `垂类` = ngách ngành. `垂直` khi nói về lĩnh vực = ngành dọc. Không dịch thành video dọc, trừ khi câu đang nói tỷ lệ khung hình dọc.
+- `贷款总额` / `月贷款总额` = tổng khoản giải ngân. Không dịch thành dư nợ.
+- `禁封账号` = khóa tài khoản. Không viết “cấm khóa”.
+- `前端` = frontend. `后端` = backend. Không dịch thành phía trước / phía sau.
