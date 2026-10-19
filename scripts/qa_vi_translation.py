@@ -25,7 +25,7 @@ FOUNDER_DIR = "创业者早期的烦恼树洞"
 
 KINDS = ("handbook", "founder-qa", "founder-free", "readme")
 QA_LABELS = ("Tiêu đề:", "Bạn đọc gửi:", "Trả lời:")
-# Case-insensitive substring ban. No exception when the source already has the word.
+# Case-insensitive substring counts must match the source (invented or dropped names fail).
 FORBIDDEN = ("Zalo", "Shopee", "MoMo", "VNĐ", "VND")
 
 NUM_RE = re.compile(r"\d+(?:[.,]\d+)*")
@@ -101,6 +101,23 @@ def url_mismatch(src_text, dst_text):
     return "URL count mismatch: %s" % clip(diffs)
 
 
+def forbidden_mismatches(src_text, dst_text):
+    """Each forbidden token must appear the same number of times in source and dest."""
+    reasons = []
+    src_folded = src_text.casefold()
+    dst_folded = dst_text.casefold()
+    for word in FORBIDDEN:
+        needle = word.casefold()
+        src_n = src_folded.count(needle)
+        dst_n = dst_folded.count(needle)
+        if src_n != dst_n:
+            reasons.append(
+                "forbidden string count mismatch: %s (source %d, dest %d)"
+                % (word, src_n, dst_n)
+            )
+    return reasons
+
+
 def check_pair(source, dest, kind):
     reasons = []
     if not source.is_file():
@@ -155,10 +172,7 @@ def check_pair(source, dest, kind):
             if label not in dst_text:
                 reasons.append("missing label: %s" % label)
 
-    folded = dst_text.casefold()
-    for word in FORBIDDEN:
-        if word.casefold() in folded:
-            reasons.append("forbidden string: %s" % word)
+    reasons.extend(forbidden_mismatches(src_text, dst_text))
 
     return reasons
 
