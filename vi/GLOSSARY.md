@@ -78,3 +78,5 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `支撑` một ước lượng hoặc một quyết định = làm chỗ dựa cho quyết định đó. Không dịch thành chống.
 - `自发推荐` = người dùng tự giới thiệu sản phẩm cho người khác. Không dịch thành tự giới thiệu bản thân.
 - `对赌` / `业绩对赌` = đánh cược theo thành tích. Không dịch thành đối đầu.
+- `风口` = ngành đang nóng / cơ hội đang lên. Không dịch thành làn gió.
+- `亚逊小队` không phải tên tắt của Amazon. Giữ «tiểu đội Yaxun». Không thêm tên công ty.
