@@ -89,3 +89,5 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `KOC` = người tiêu dùng có ảnh hưởng then chốt (Key Opinion Consumer). Không dịch thành người sáng tạo then chốt.
 - `板绘` = vẽ minh họa trên máy tính bảng. Không dịch thành vẽ bảng.
 - `纯流水分成` = chỉ chia doanh thu, không có phí bản quyền. Không dịch thành doanh thu thuần.
+- `园区` nơi công ty tụ tập = khuôn viên doanh nghiệp. Không dịch thành công viên.
+- `主打低价` = lấy giá thấp làm mũi nhọn. Không dịch thành đánh giá thấp.
