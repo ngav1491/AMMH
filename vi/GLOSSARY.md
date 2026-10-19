@@ -73,3 +73,4 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - Kiểm tra cả cây: `python3 scripts/qa_vi_translation.py --tree`. Báo từng file đích còn thiếu và mọi `ch*.md` ở `vi/handbook/` hoặc `vi/founder/` mà nguồn không có. `vi/GLOSSARY.md` không phải bản dịch, không bắt buộc với `--tree`.
 - Giữ mọi URL `http://` và `https://` của nguồn đúng ký tự và đúng số lần. Giữ đa tập chuỗi số (số nguyên, `1,500`, `9.9`) và số lần ký hiệu `¥`. Giữ số heading từng cấp `#` đến `######`, và số dòng bảng (dòng có `|` sau khoảng trắng đầu dòng).
 - Không thêm `Zalo`, `Shopee`, `MoMo`, `VNĐ`, `VND` vào bản dịch (không phân biệt hoa thường). Nếu nguồn đã chứa một trong các từ này, giữ đúng số lần xuất hiện; không được thêm mới hay bỏ đi. Không đổi nền tảng hoặc đơn vị tiền sang thị trường Việt Nam.
+- `万` = vạn. `亿` = trăm triệu, so `100亿` stays `100 trăm triệu` (10 tỷ) and `10亿` stays `10 trăm triệu` (1 tỷ). Do not translate `亿` as `ức`.
