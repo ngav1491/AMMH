@@ -81,3 +81,5 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `风口` = ngành đang nóng / cơ hội đang lên. Không dịch thành làn gió.
 - `亚逊小队` không phải tên tắt của Amazon. Giữ «tiểu đội Yaxun». Không thêm tên công ty.
 - `内卷` = cạnh tranh bào mòn. Không dịch thành nội cuốn.
+- `卖时间` / `出卖时间` = bán giờ lao động. Không viết `bán thời gian` đứng một mình, vì cụm đó có nghĩa là bán thời gian (part-time).
+- `私有化部署` = triển khai trên hạ tầng riêng. Không dịch thành riêng tư. Khác với `本地化部署` = triển khai tại chỗ.
