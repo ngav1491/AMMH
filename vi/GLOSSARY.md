@@ -107,3 +107,4 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `前端` = frontend. `后端` = backend. Không dịch thành phía trước / phía sau.
 - `代理服务器` / `代理IP` = máy chủ proxy / IP proxy. Không dịch thành đại lý. `广告代理` = đại lý quảng cáo, là việc khác.
 - `朋友注册成功后` = sau khi người bạn đăng ký thành công. Không viết “Bạn đăng ký” khi chủ ngữ là người bạn.
+- `双11` / `双十一` = Ngày độc thân. Không viết 11 đôi. Nếu nguồn là `双11`, giữ đúng một chuỗi số `11`. Không viết `11/11`.
