@@ -84,3 +84,5 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `卖时间` / `出卖时间` = bán giờ lao động. Không viết `bán thời gian` đứng một mình, vì cụm đó có nghĩa là bán thời gian (part-time).
 - `私有化部署` = triển khai trên hạ tầng riêng. Không dịch thành riêng tư. Khác với `本地化部署` = triển khai tại chỗ.
 - `块钱` = yuan. `10块钱` = 10 yuan. Không dịch thành khối tiền.
+- `流水` / `月流水` / `销售流水` = doanh thu. `现金流` = dòng tiền. Không dùng dòng tiền cho 流水.
+- `微商` = bán hàng qua WeChat. Không dịch thành thương mại vi mô.
