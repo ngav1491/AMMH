@@ -86,3 +86,6 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `块钱` = yuan. `10块钱` = 10 yuan. Không dịch thành khối tiền.
 - `流水` / `月流水` / `销售流水` = doanh thu. `现金流` = dòng tiền. Không dùng dòng tiền cho 流水.
 - `微商` = bán hàng qua WeChat. Không dịch thành thương mại vi mô.
+- `KOC` = người tiêu dùng có ảnh hưởng then chốt (Key Opinion Consumer). Không dịch thành người sáng tạo then chốt.
+- `板绘` = vẽ minh họa trên máy tính bảng. Không dịch thành vẽ bảng.
+- `纯流水分成` = chỉ chia doanh thu, không có phí bản quyền. Không dịch thành doanh thu thuần.
