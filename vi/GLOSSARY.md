@@ -76,3 +76,5 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `万` = vạn. `亿` = trăm triệu, so `100亿` stays `100 trăm triệu` (10 tỷ) and `10亿` stays `10 trăm triệu` (1 tỷ). Do not translate `亿` as `ức`.
 - `市场空间` = dư địa thị trường. Không dịch thành khoảng trống.
 - `支撑` một ước lượng hoặc một quyết định = làm chỗ dựa cho quyết định đó. Không dịch thành chống.
+- `自发推荐` = người dùng tự giới thiệu sản phẩm cho người khác. Không dịch thành tự giới thiệu bản thân.
+- `对赌` / `业绩对赌` = đánh cược theo thành tích. Không dịch thành đối đầu.
