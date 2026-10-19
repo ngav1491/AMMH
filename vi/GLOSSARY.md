@@ -83,3 +83,4 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `内卷` = cạnh tranh bào mòn. Không dịch thành nội cuốn.
 - `卖时间` / `出卖时间` = bán giờ lao động. Không viết `bán thời gian` đứng một mình, vì cụm đó có nghĩa là bán thời gian (part-time).
 - `私有化部署` = triển khai trên hạ tầng riêng. Không dịch thành riêng tư. Khác với `本地化部署` = triển khai tại chỗ.
+- `块钱` = yuan. `10块钱` = 10 yuan. Không dịch thành khối tiền.
