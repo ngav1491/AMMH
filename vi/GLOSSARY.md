@@ -80,3 +80,4 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `对赌` / `业绩对赌` = đánh cược theo thành tích. Không dịch thành đối đầu.
 - `风口` = ngành đang nóng / cơ hội đang lên. Không dịch thành làn gió.
 - `亚逊小队` không phải tên tắt của Amazon. Giữ «tiểu đội Yaxun». Không thêm tên công ty.
+- `内卷` = cạnh tranh bào mòn. Không dịch thành nội cuốn.
