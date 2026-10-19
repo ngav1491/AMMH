@@ -97,3 +97,6 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `积累` = tích. Không dịch thành lắng lại. `沉淀` là từ khác.
 - `节点` = node. `一键` = một cú nhấp. Không dùng nút cho cả hai.
 - `托管` máy chủ, node, hoặc SaaS = chạy hộ. Không dịch thành ký gửi. Ký quỹ tiền là việc khác. `代码托管` = lưu trữ mã.
+- `以上` = từ X trở lên. Không viết trên X. `超` mới là trên (không gồm mốc).
+- `提升 N%` = nâng thêm N%. Không viết đưa lên N%. `缩短 N 分钟` = rút ngắn N phút. Không viết rút xuống N phút.
+- `每日零库存` = tồn kho về 0 mỗi ngày. Không viết không mỗi ngày.
