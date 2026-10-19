@@ -100,3 +100,5 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `以上` = từ X trở lên. Không viết trên X. `超` mới là trên (không gồm mốc).
 - `提升 N%` = nâng thêm N%. Không viết đưa lên N%. `缩短 N 分钟` = rút ngắn N phút. Không viết rút xuống N phút.
 - `每日零库存` = tồn kho về 0 mỗi ngày. Không viết không mỗi ngày.
+- `Lo-Fi` = độ trung thực thấp. Không dịch thành độ trung thấp.
+- `垂类` = ngách ngành. `垂直` khi nói về lĩnh vực = ngành dọc. Không dịch thành video dọc, trừ khi câu đang nói tỷ lệ khung hình dọc.
