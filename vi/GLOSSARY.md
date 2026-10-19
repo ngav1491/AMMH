@@ -94,3 +94,4 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `去重` (ảnh) = loại trùng. Không dịch thành khử trùng.
 - `全权` = ủy thác toàn bộ. `半全权` = ủy thác một phần. Không dùng động từ bán.
 - `国内` trong kho này = ở Trung Quốc đại lục. Không dịch thành trong nước. `身份证` trong ngữ cảnh Trung Quốc = thẻ căn cước Trung Quốc. Không dịch thành chứng minh nhân dân.
+- `积累` = tích. Không dịch thành lắng lại. `沉淀` là từ khác.
