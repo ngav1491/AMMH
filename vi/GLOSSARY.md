@@ -74,3 +74,5 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - Giữ mọi URL `http://` và `https://` của nguồn đúng ký tự và đúng số lần. Giữ đa tập chuỗi số (số nguyên, `1,500`, `9.9`) và số lần ký hiệu `¥`. Giữ số heading từng cấp `#` đến `######`, và số dòng bảng (dòng có `|` sau khoảng trắng đầu dòng).
 - Không thêm `Zalo`, `Shopee`, `MoMo`, `VNĐ`, `VND` vào bản dịch (không phân biệt hoa thường). Nếu nguồn đã chứa một trong các từ này, giữ đúng số lần xuất hiện; không được thêm mới hay bỏ đi. Không đổi nền tảng hoặc đơn vị tiền sang thị trường Việt Nam.
 - `万` = vạn. `亿` = trăm triệu, so `100亿` stays `100 trăm triệu` (10 tỷ) and `10亿` stays `10 trăm triệu` (1 tỷ). Do not translate `亿` as `ức`.
+- `市场空间` = dư địa thị trường. Không dịch thành khoảng trống.
+- `支撑` một ước lượng hoặc một quyết định = làm chỗ dựa cho quyết định đó. Không dịch thành chống.
