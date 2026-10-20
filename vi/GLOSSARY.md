@@ -109,3 +109,7 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `朋友注册成功后` = sau khi người bạn đăng ký thành công. Không viết “Bạn đăng ký” khi chủ ngữ là người bạn.
 - `双11` / `双十一` = Ngày độc thân. Không viết 11 đôi. Nếu nguồn là `双11`, giữ đúng một chuỗi số `11`. Không viết `11/11`.
 - `后台` khi là màn hình quản trị sản phẩm = trang quản trị. Không viết hậu trường. `中后台` là khu vực công việc trung–hậu đài, khác màn hình đó.
+- `溢价` = phần giá cao hơn mặt bằng. Không viết thặng dư.
+- `10大` = top 10. Không viết món lớn.
+- `卖身` khi đối lập với bán khóa học = bán sức lao động. Không viết bán thân.
+- `技术栈` = tech stack. Không viết chồng kỹ thuật. `全栈` = full-stack.
