@@ -108,3 +108,4 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `代理服务器` / `代理IP` = máy chủ proxy / IP proxy. Không dịch thành đại lý. `广告代理` = đại lý quảng cáo, là việc khác.
 - `朋友注册成功后` = sau khi người bạn đăng ký thành công. Không viết “Bạn đăng ký” khi chủ ngữ là người bạn.
 - `双11` / `双十一` = Ngày độc thân. Không viết 11 đôi. Nếu nguồn là `双11`, giữ đúng một chuỗi số `11`. Không viết `11/11`.
+- `后台` khi là màn hình quản trị sản phẩm = trang quản trị. Không viết hậu trường. `中后台` là khu vực công việc trung–hậu đài, khác màn hình đó.
