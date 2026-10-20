@@ -113,3 +113,4 @@ Không giữ chữ Hán trong bản Việt, trừ khi chữ đó nằm trong URL
 - `10大` = top 10. Không viết món lớn.
 - `卖身` khi đối lập với bán khóa học = bán sức lao động. Không viết bán thân.
 - `技术栈` = tech stack. Không viết chồng kỹ thuật. `全栈` = full-stack.
+- `开元` đứng trước công cụ cơ sở dữ liệu như Zilliz hoặc Weaviate là lỗi đồng âm của `开源`. Dịch là mã nguồn mở. Không viết Khai Nguyên.
