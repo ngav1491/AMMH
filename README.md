@@ -1,124 +1,124 @@
-# 兼职赚钱方案博物馆
+# Bảo tàng giải pháp kiếm tiền nghề tay trái
 
-## 贡献方式
-欢迎大家贡献关于使用AI赚钱的案例，包括文章、网站、博客、推文等。
-## 贡献方法
- - 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/XiaomingX/ai-money-maker-handbook/issues/new) 。
-## AI副业赚钱资讯合集
-这是一个关于AI副业赚钱方法、工具和平台的合集，希望帮助大家在AI时代利用智能技术赚取工作之余的额外收入。
-## 如何开始副业最稳妥
-### 四条建议
-- **做内容搞流量**：通过搞流量找到需要产品的用户，与别人合作促成交易。
-- **卖铲子而非挖金子**：挖金子风险大，卖工具更容易。
-- **不想花钱就花时间**：通过时间不断试错找到赚钱的方法。
-- **做资产而不是卖时间**：积累可以持续收益的资产，而不是一次性卖时间。
-### 一条策略
-自媒体流量是当下用AI做副业的最亲民路径。
-## 常用资源清单
-🌍 [跨境出海技术栈](https://github.com/XiaomingX/indie-hacker-tools-plus)
+## Phương thức đóng góp
+Hoan nghênh mọi người đóng góp các trường hợp sử dụng AI kiếm tiền, bao gồm bài viết, trang web, blog, tweet, v.v.
+## Cách thức đóng góp
+ - Hoan nghênh gửi bài, giới thiệu hoặc tự ứng cử bài viết/phần mềm/tài nguyên, vui lòng [gửi issue](https://github.com/XiaomingX/ai-money-maker-handbook/issues/new) .
+## Tuyển tập thông tin kiếm tiền từ nghề tay trái AI
+Đây là tuyển tập về các phương pháp, công cụ và nền tảng kiếm tiền nghề tay trái bằng AI, hy vọng giúp mọi người trong thời đại AI tận dụng công nghệ thông minh để kiếm thêm thu nhập ngoài giờ làm việc.
+## Cách bắt đầu nghề tay trái vững vàng nhất
+### Bốn lời khuyên
+- **Làm nội dung hút traffic**：thông qua kiếm traffic tìm người dùng cần sản phẩm, hợp tác với người khác để thúc đẩy giao dịch.
+- **Bán xẻng thay vì đi đào vàng**：đào vàng rủi ro lớn, bán công cụ dễ dàng hơn.
+- **Không muốn tốn tiền thì tốn thời gian**：thông qua thời gian không ngừng thử sai để tìm ra phương pháp kiếm tiền.
+- **Làm tài sản chứ không bán thời gian**：tích lũy tài sản có thể sinh lợi liên tục, chứ không bán thời gian một lần.
+### Một chiến lược
+Lưu lượng tự truyền thông là lộ trình gần gũi với đại chúng nhất hiện nay khi dùng AI làm nghề tay trái.
+## Danh mục tài nguyên thường dùng
+🌍 [Tech stack vượt biển xuyên biên giới](https://github.com/XiaomingX/indie-hacker-tools-plus)
 
-🤖 [AI搞钱原则手册](https://github.com/XiaomingX/ai-money-maker-handbook)
+🤖 [Sổ tay nguyên tắc kiếm tiền bằng AI](https://github.com/XiaomingX/ai-money-maker-handbook)
 
-🛠️ [构建你自己的X](https://github.com/XiaomingX/build-your-own-xxx)
+🛠️ [Xây dựng X của riêng bạn](https://github.com/XiaomingX/build-your-own-xxx)
 
-📋 [1000个中国独立开发者项目](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
+📋 [1000 dự án nhà phát triển độc lập Trung Quốc](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
 
-📋 [100k-us-domains:ai导航站点数据集](https://github.com/XiaomingX/100k-us-domains)
+📋 [100k-us-domains: Tập dữ liệu trang web điều hướng AI](https://github.com/XiaomingX/100k-us-domains)
 
-🧠 [世界上覆盖最全的优秀Qwen提示语大全](https://github.com/XiaomingX/awesome-qwen-prompt-insight)
+🧠 [Tuyển tập toàn diện nhất thế giới về câu lệnh nhắc Qwen xuất sắc](https://github.com/XiaomingX/awesome-qwen-prompt-insight)
 
-# 写给 0-1 岁的初创公司合伙人 系列文章汇总
-1. [什么是 MAU 指标，什么是 ARR、PMF](https://blog.csdn.net/2408_89348881/article/details/154359112)
-2. [可转债和可转换优先股区别](https://juejin.cn/post/7569810118169690127)
-3. [新型融资工具 SAFE 的定义和方案](https://juejin.cn/post/7570184234070573056)
-4. [出海产品运营的推广渠道](https://juejin.cn/post/7569960869959417902)
-5. [应用发布上线启动前的自查清单](https://juejin.cn/post/7570213477949636660)
-6. [出海常用技术栈组合](https://juejin.cn/post/7570341520550969359)
-7. [一文看懂：天使轮、A 轮、B 轮… 创业公司的融资轮次到底是啥？](https://juejin.cn/post/7571734313923231778)
-8. [LTV/CAC ＞ 3？详解单位经济模型的健康度](https://blog.csdn.net/2408_89348881/article/details/155064714)
-9. [定价权的艺术 —— 从成本加成到价值定价](https://blog.csdn.net/2408_89348881/article/details/155064842)
-10. [股权激励（ESOP）设计的陷阱与 “三个篮子” 理论](https://juejin.cn/spost/7574725286529335347)
-11. [VIE 架构（可变利益实体）的红线与红利](https://juejin.cn/post/7574382900860190747)
-12. [烧钱率（Burn Rate）与 “死亡谷” 的现金流规划](https://blog.csdn.net/2408_89348881/article/details/155064274)
-13. [网络效应与规模效应的区别 —— 为何有些 SaaS 无法指数增长](https://blog.csdn.net/2408_89348881/article/details/155064361)
-14. [PLG（产品驱动增长）与 SLG（销售驱动增长）的组织基因差异](https://blog.csdn.net/2408_89348881/article/details/155064459)
-15. [留存率（Retention）—— 比拉新更重要的 “复利” 指标](https://blog.csdn.net/2408_89348881/article/details/155064587)
-16. [GDPR 与 CCPA—— 出海合规的 “核按钮”](https://juejin.cn/post/7574625040659529778)
-17. [创始人协议与动态股权分配（Dynamic Equity Split）](https://juejin.cn/post/7574568258802139163)
-18. [ODI（境外直接投资）备案与资金出境合规路径](https://juejin.cn/post/7574600119749885962)
-19. [董事会的博弈——如何管理你的投资人](https://blog.csdn.net/2408_89348881/article/details/155096399)
-20. [反稀释条款与估值下调融资（Down Round）的生存指南](https://blog.csdn.net/2408_89348881/article/details/155096690)
-21. [全球支付通道对比——Stripe, PayPal与本地化钱包的费率陷阱](https://blog.csdn.net/2408_89348881/article/details/155094962)
-22. [知识产权（IP）布局 —— 商标、专利与开源协议的风险](https://juejin.cn/post/7574620713228075059)
-23. [尽职调查（Due Diligence）清单 ——VC 到底在查什么？](https://juejin.cn/post/7574568258802122779)
-24. [逆向思考法——预演你的公司是如何倒闭的](https://blog.csdn.net/2408_89348881/article/details/155096946)
-25. [能力圈边界 —— 什么时候该转型，什么时候该坚持](https://juejin.cn/post/7574620713227829299)
-26. [招聘中的 “护城河”—— 如何识别雇佣兵与传教士](https://juejin.cn/post/7574600119749738506)
-27. [并购（M&A）与 IPO—— 退出的逻辑与时机选择](https://juejin.cn/post/7574600119749754890)
-28. [品牌资产 —— 在算法推荐时代重构用户心智](https://juejin.cn/post/7574382900860485659)
-29. [跨文化管理的熵增 —— 如何管理不同时区的团队](https://juejin.cn/post/7574625040659660850)
-30. [复盘与决策日志 —— 如何避免认知偏差（Bias）](https://juejin.cn/post/7574382925762215974)
-31. [长期贪婪 —— 建立基于诚信的商业声誉](https://juejin.cn/post/7574584245152399411)
+# Tổng hợp chuỗi bài viết Dành cho cộng sự công ty khởi nghiệp 0-1 tuổi
+1. [Chỉ số MAU là gì, ARR, PMF là gì](https://blog.csdn.net/2408_89348881/article/details/154359112)
+2. [Sự khác biệt giữa trái phiếu chuyển đổi và cổ phiếu ưu đãi chuyển đổi](https://juejin.cn/post/7569810118169690127)
+3. [Định nghĩa và phương án của công cụ gọi vốn kiểu mới SAFE](https://juejin.cn/post/7570184234070573056)
+4. [Kênh quảng bá vận hành sản phẩm xuất khẩu](https://juejin.cn/post/7569960869959417902)
+5. [Danh sách tự kiểm tra trước khi khởi động phát hành ứng dụng](https://juejin.cn/post/7570213477949636660)
+6. [Kết hợp tech stack thường dùng khi xuất khẩu](https://juejin.cn/post/7570341520550969359)
+7. [Một bài đọc hiểu ngay: Vòng thiên thần, vòng A, vòng B... các vòng gọi vốn của công ty khởi nghiệp rốt cuộc là gì?](https://juejin.cn/post/7571734313923231778)
+8. [LTV/CAC ＞ 3? Giải mã chi tiết độ khỏe mạnh của mô hình kinh tế đơn vị](https://blog.csdn.net/2408_89348881/article/details/155064714)
+9. [Nghệ thuật quyền định giá - Từ cộng thêm chi phí đến định giá theo giá trị](https://blog.csdn.net/2408_89348881/article/details/155064842)
+10. [Bẫy thiết kế khích lệ cổ phần (ESOP) và lý thuyết “ba chiếc giỏ”](https://juejin.cn/spost/7574725286529335347)
+11. [Lằn ranh đỏ và lợi tức của cấu trúc VIE (thực thể hưởng lợi ích biến đổi)](https://juejin.cn/post/7574382900860190747)
+12. [Tốc độ đốt tiền (Burn Rate) và quy hoạch dòng tiền mặt của “thung lũng chết”](https://blog.csdn.net/2408_89348881/article/details/155064274)
+13. [Sự khác biệt giữa hiệu ứng mạng và hiệu ứng quy mô - Vì sao một số SaaS không thể tăng trưởng theo cấp số nhân](https://blog.csdn.net/2408_89348881/article/details/155064361)
+14. [Sự khác biệt về gen tổ chức giữa PLG (tăng trưởng dẫn dắt bởi sản phẩm) và SLG (tăng trưởng dẫn dắt bởi bán hàng)](https://blog.csdn.net/2408_89348881/article/details/155064459)
+15. [Tỷ lệ giữ chân (Retention) - Chỉ số “lãi kép” quan trọng hơn cả thu hút người dùng mới](https://blog.csdn.net/2408_89348881/article/details/155064587)
+16. [GDPR và CCPA - “Nút bấm hạt nhân” của tuân thủ xuất khẩu](https://juejin.cn/post/7574625040659529778)
+17. [Thỏa thuận nhà sáng lập và phân bổ cổ phần động (Dynamic Equity Split)](https://juejin.cn/post/7574568258802139163)
+18. [Khai báo hồ sơ ODI (đầu tư trực tiếp ra nước ngoài) và lộ trình hợp quy dòng tiền ra nước ngoài](https://juejin.cn/post/7574600119749885962)
+19. [Cuộc chơi hội đồng quản trị - Làm thế nào để quản lý nhà đầu tư của bạn](https://blog.csdn.net/2408_89348881/article/details/155096399)
+20. [Điều khoản chống pha loãng và cẩm nang sinh tồn khi gọi vốn định giá giảm (Down Round)](https://blog.csdn.net/2408_89348881/article/details/155096690)
+21. [So sánh cổng thanh toán toàn cầu - Bẫy phí của Stripe, PayPal và các ví bản địa hóa](https://blog.csdn.net/2408_89348881/article/details/155094962)
+22. [Bố cục sở hữu trí tuệ (IP) - Rủi ro của nhãn hiệu, bằng sáng chế và giấy phép nguồn mở](https://juejin.cn/post/7574620713228075059)
+23. [Danh sách thẩm định chi tiết (Due Diligence) - Rốt cuộc VC đang điều tra những gì?](https://juejin.cn/post/7574568258802122779)
+24. [Phương pháp tư duy ngược - Diễn tập trước công ty của bạn phá sản như thế nào](https://blog.csdn.net/2408_89348881/article/details/155096946)
+25. [Ranh giới vòng tròn năng lực - Khi nào nên chuyển hướng, khi nào nên kiên trì](https://juejin.cn/post/7574620713227829299)
+26. [“Hào kinh doanh” trong tuyển dụng - Làm thế nào nhận diện lính đánh thuê và người truyền đạo](https://juejin.cn/post/7574600119749738506)
+27. [Mua bán sáp nhập (M&A) và IPO - Logic thoái vốn và lựa chọn thời cơ](https://juejin.cn/post/7574600119749754890)
+28. [Tài sản thương hiệu - Tái cấu trúc tâm trí người dùng trong thời đại thuật toán đề xuất](https://juejin.cn/post/7574382900860485659)
+29. [Gia tăng entropy trong quản lý xuyên văn hóa - Làm thế nào quản lý đội ngũ ở các múi giờ khác nhau](https://juejin.cn/post/7574625040659660850)
+30. [Phục bàn và nhật ký quyết sách - Làm thế nào tránh thiên kiến nhận thức (Bias)](https://juejin.cn/post/7574382925762215974)
+31. [Tham lam dài hạn - Xây dựng danh tiếng thương mại dựa trên uy tín trung thực](https://juejin.cn/post/7574584245152399411)
 
-# 程序员的副业赚钱宝典 系列文章汇总
-1. [第443章：搭建 AI 辅助图文创作工具赚订阅费](程序员的副业赚钱宝典/ch0443.md)
-2. [第444章：代客安装 OpenClaw 与 Claude Code 赚取服务费](程序员的副业赚钱宝典/ch0444.md)
-3. [第445章：搭建出海货运代理网站赚取利差与服务费](程序员的副业赚钱宝典/ch0445.md)
-4. [第446章：利用 Agent 接入海外广告 API 赚取高额佣金](程序员的副业赚钱宝典/ch0446.md)
+# Tổng hợp chuỗi bài viết Sổ tay kiếm tiền nghề tay trái cho lập trình viên
+1. [Chương 443: “Thợ trau chuốt” của xưởng nội dung - Dựng công cụ sáng tạo hình ảnh văn bản hỗ trợ bởi AI kiếm phí thuê bao](handbook/ch0443.md)
+2. [Chương 444: “Thợ điện tận nhà” thời đại AI - Cài đặt hộ OpenClaw và Claude Code kiếm phí dịch vụ](handbook/ch0444.md)
+3. [Chương 445: Giao nhận vận tải (Freight Forwarding) số hóa - Xây dựng trang web đại lý vận chuyển hàng hóa xuất khẩu kiếm chênh lệch giá và phí dịch vụ](handbook/ch0445.md)
+4. [Chương 446: Chuyên gia chạy quảng cáo AI - Tận dụng Agent kết nối API quảng cáo hải ngoại kiếm hoa hồng hậu hĩnh](handbook/ch0446.md)
 
-## AI技术赚钱思路分享
-### 技术赚钱的一些认知
-- **做垂类而非平台**：聚焦特定领域，比做一个通用平台更容易脱颖而出。
-- **顺应人性**：做顺应人性的事情，如小说创作，而非逆人性的教育内容。
-- **从小切入**：从最小的需求切入，如先做Midjourney的API服务。
-- **开源赚流量**：开源可以为你带来更多资源和公共认同。
-- **做国外市场**：国外市场付费能力更强，审核限制较少。
-- **赚有钱人的钱**：有钱人和想赚钱的人付费意愿更高。
-- **目标明确**：了解用户、功能、卖点、用户聚集地后，推广会变得简单。
-- **AI 自动化工作流**：为企业定制基于 Agent 的办公自动化流程（如精简报表、自动周报）。
-- **插件与模板开发**：为低代码平台或电商平台（Shopify/WP）开发垂类 AI 插件。
-- **SaaS 化工具**：针对特定开发痛点（如代码审查、API 模拟）的 AI 生产力工具。
-### 已验证的技术赚钱方案
-1. **套壳站**：如GPT套壳站，制作站点并出售私有化部署。
-2. **API聚合**：聚合各类AI API，帮助开发者快速调用。
-3. **发卡站**：自动售卖AI账号，简化交易流程。
-4. **聚焦AI工具**：针对特定需求的AI工具，如AI写论文。
-5. **模型训练**：为客户做AI模型训练，但效果要求较高。
-6. **行业垂直 SaaS**：利用 AI 解决特定行业流程问题（如律师文书、医疗记录）。
-## AI自媒体赚钱思路分享
-### ai脚本视频赚钱
-- **图片绘本故事**：用AI制作故事，发布吸引流量。
-- **虚拟人口播**：使用AI生成虚拟人进行口播视频。
-- **小说漫画推文**：将小说转为漫画，通过AI实现内容创作。
-- **电影剧情解说**：用AI生成电影解说视频，快速制作内容。
-### 视频变幻赚钱
-- **瞬息全宇宙**：制作炫酷转场动画视频，吸引观众。
-- **热舞小姐姐**：通过动效制作增加内容吸引力。
-- **无限穿越放大&缩小景别**：制作视觉效果独特的视频内容。
-### 视频翻译&搬运
-- **视频搬运**：使用AI工具翻译和搬运国外视频，扩大受众。
-### AI图片赚钱副业
-- **个人头像**：用AI生成个性化头像，进行售卖。
-- **桌面壁纸**：制作壁纸图片并进行多渠道变现。
-- **模特换装**：通过AI生成不同的模特换装效果。
-- **商品广告**：制作商品广告图片，降低营销成本。
-- **儿童绘本**：制作AI绘制的儿童绘本，满足家庭需求。
-- **表情包**：批量生成表情包，获取被动收入。
-- **家具&装修**：生成家装效果图，方便客户选择。
-- **LOGO制作**：快速生成品牌LOGO，服务商家需求。
-- **照片修复**：用AI修复老照片，提供个性化服务。
-### AI文案赚钱副业
-- **新媒体推文**：用AI生成新媒体文案，提高创作效率。
-- **AI论文代写**：为学术写作提供润色和辅助撰写。
-- **AI小说编剧**：用AI生成剧本，提升内容创作质量。
-- **AI简历改写**：用AI生成竞争力强的简历，帮助求职。
-### AI音频赚钱副业
-- **AI声音克隆**：用AI克隆声音，制作个性化音频内容。
-- **AI音乐**：用AI生成音乐，提供免版权音乐创作。
-### AI直播
-- **无人货架直播**：利用AI进行无人直播，减少人工成本。
-- **虚拟人直播**：生成虚拟人形象进行直播，增加内容趣味性。
-### 更多副业思路
-- **AI 辅助出版**：利用 AI 撰写小说或绘本，在 Amazon KDP 平台赚取美金。
-- **利基数据分发**：售卖 AI 整理的高价值行业数据包（如红人清单、选品数据）。
-- **AI 咨询与顾问**：为传统企业提供 AI 降本增效的方案咨询与工具部署。
+## Chia sẻ tư duy kiếm tiền bằng công nghệ AI
+### Một số nhận thức về kiếm tiền bằng công nghệ
+- **Làm ngành dọc thay vì làm nền tảng**：tập trung vào lĩnh vực đặc thù, dễ nổi bật hơn là làm một nền tảng thông dụng.
+- **Thuận theo nhân tính**：làm những việc thuận theo nhân tính, như sáng tác tiểu thuyết, chứ không làm nội dung giáo dục ngược nhân tính.
+- **Thâm nhập từ quy mô nhỏ**：thâm nhập từ nhu cầu nhỏ nhất, như làm dịch vụ API cho Midjourney trước.
+- **Mã nguồn mở để kiếm traffic**：nguồn mở có thể mang lại cho bạn nhiều tài nguyên và sự công nhận của cộng đồng hơn.
+- **Làm thị trường nước ngoài**：thị trường nước ngoài có khả năng chi trả mạnh hơn, hạn chế kiểm duyệt ít hơn.
+- **Kiếm tiền của người giàu**：người giàu và người muốn kiếm tiền có ý định chi trả cao hơn.
+- **Mục tiêu rõ ràng**：sau khi hiểu rõ người dùng, tính năng, điểm bán, nơi tập trung người dùng, việc quảng bá sẽ trở nên đơn giản.
+- **Quy trình làm việc tự động hóa AI**：tùy biến quy trình tự động hóa văn phòng dựa trên Agent cho doanh nghiệp (như tinh giản báo cáo biểu mẫu, báo cáo tuần tự động).
+- **Phát triển plugin và mẫu template**：phát triển plugin AI ngành dọc cho các nền tảng low-code hoặc nền tảng thương mại điện tử (Shopify/WP).
+- **Công cụ SaaS hóa**：công cụ năng suất AI nhắm vào các điểm đau phát triển đặc thù (như thẩm định code, mô phỏng API).
+### Các phương án kiếm tiền bằng công nghệ đã được kiểm chứng
+1. **Trang web bọc vỏ (wrapper)**：như trang web bọc vỏ GPT, làm trang web và bán việc triển khai riêng tư hóa.
+2. **Tụ hợp API**：tụ hợp các loại AI API, giúp nhà phát triển gọi nhanh chóng.
+3. **Trang web bán thẻ tự động**：tự động bán tài khoản AI, đơn giản hóa quy trình giao dịch.
+4. **Tập trung vào công cụ AI**：công cụ AI nhắm vào nhu cầu đặc thù, như AI viết luận văn.
+5. **Huấn luyện mô hình**：làm huấn luyện mô hình AI cho khách hàng, nhưng yêu cầu về hiệu quả tương đối cao.
+6. **SaaS ngành dọc**：tận dụng AI giải quyết vấn đề quy trình của ngành đặc thù (như văn bản luật sư, hồ sơ bệnh án).
+## Chia sẻ tư duy kiếm tiền từ tự truyền thông AI
+### Kiếm tiền từ video kịch bản AI
+- **Câu chuyện tranh vẽ tranh truyện**：dùng AI làm câu chuyện, phát hành để thu hút lưu lượng.
+- **Người ảo phát thanh**：sử dụng AI tạo người ảo để làm video phát thanh bằng miệng.
+- **Đẩy truyện tiểu thuyết tranh tranh**：chuyển tiểu thuyết thành truyện tranh, thông qua AI hiện thực hóa sáng tạo nội dung.
+- **Bình luận giải mã cốt truyện điện ảnh**：dùng AI tạo video giải mã phim, nhanh chóng chế tác nội dung.
+### Kiếm tiền từ biến ảo video
+- **Tất cả cùng lúc ở mọi nơi (Everything Everywhere All at Once)**：chế tác video hoạt hình chuyển cảnh cực ngầu, thu hút khán giả.
+- **Em gái nhảy bốc lửa**：thông qua chế tác hiệu ứng động tăng sức hút nội dung.
+- **Xuyên không vô hạn phóng to & thu nhỏ khung cảnh**：chế tác nội dung video có hiệu ứng thị giác độc đáo.
+### Dịch & vận chuyển video
+- **Vận chuyển video**：sử dụng công cụ AI dịch và vận chuyển video nước ngoài, mở rộng tệp khán giả.
+### Nghề tay trái kiếm tiền từ hình ảnh AI
+- **Avatar cá nhân**：dùng AI tạo avatar cá nhân hóa, tiến hành bán ra.
+- **Hình nền máy tính**：chế tác hình ảnh hình nền và kiếm tiền qua nhiều kênh.
+- **Thay đồ người mẫu**：thông qua AI tạo các hiệu ứng thay trang phục người mẫu khác nhau.
+- **Quảng cáo hàng hóa**：chế tác hình ảnh quảng cáo sản phẩm, giảm chi phí tiếp thị.
+- **Tranh truyện trẻ em**：chế tác tranh truyện thiếu nhi do AI vẽ, đáp ứng nhu cầu gia đình.
+- **Gói biểu cảm (meme)**：tạo hàng loạt gói biểu cảm, thu về thu nhập thụ động.
+- **Nội thất & trang trí**：tạo hình ảnh hiệu ứng trang trí nhà cửa, thuận tiện cho khách hàng lựa chọn.
+- **Làm LOGO**：nhanh chóng tạo LOGO thương hiệu, phục vụ nhu cầu của thương gia.
+- **Phục hồi ảnh cũ**：dùng AI phục hồi ảnh cũ, cung cấp dịch vụ cá nhân hóa.
+### Nghề tay trái kiếm tiền từ văn án AI
+- **Bài viết truyền thông mới**：dùng AI tạo văn án truyền thông mới, nâng cao hiệu suất sáng tạo.
+- **Viết hộ luận văn bằng AI**：cung cấp trau chuốt và hỗ trợ soạn thảo cho việc viết học thuật.
+- **Biên kịch tiểu thuyết AI**：dùng AI tạo kịch bản, nâng cao chất lượng sáng tạo nội dung.
+- **Sửa lại CV bằng AI**：dùng AI tạo CV có sức cạnh tranh mạnh mẽ, hỗ trợ xin việc.
+### Nghề tay trái kiếm tiền từ âm thanh AI
+- **Nhân bản giọng nói AI**：dùng AI nhân bản giọng nói, chế tác nội dung âm thanh cá nhân hóa.
+- **Âm nhạc AI**：dùng AI tạo âm nhạc, cung cấp sáng tạo âm nhạc miễn bản quyền.
+### Livestream AI
+- **Livestream kệ hàng không người trực**：tận dụng AI tiến hành livestream không người trực, giảm chi phí nhân công.
+- **Livestream người ảo**：tạo hình tượng người ảo để livestream, tăng tính thú vị cho nội dung.
+### Thêm nhiều tư duy nghề tay trái
+- **Xuất bản hỗ trợ bởi AI**：tận dụng AI viết tiểu thuyết hoặc tranh truyện, kiếm USD trên nền tảng Amazon KDP.
+- **Phân phối dữ liệu ngách**：bán các gói dữ liệu ngành nghề giá trị cao do AI chỉnh lý (như danh sách KOL, dữ liệu chọn hàng).
+- **Tư vấn và cố vấn AI**：cung cấp tư vấn phương án giảm chi phí tăng hiệu quả và triển khai công cụ bằng AI cho các doanh nghiệp truyền thống.
